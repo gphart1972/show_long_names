@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Recurse | Where-Object {$_.FullName.Length -gt 260} | Select-Object -ExpandProperty FullName
