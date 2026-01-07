@@ -1,1 +1,1 @@
-I created this script to handle a file migration issue at a previous employer where users had some file names that were very long and causing issues migrating their files.
+I created this script to handle a file migration issue at a previous employer where users had some file names that were very long and causing issues migrating their files. To use this file copy the code into your notepad app, edit the example path to fit yours and save as a powershell file.
